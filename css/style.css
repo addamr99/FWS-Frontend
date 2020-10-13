@@ -209,9 +209,7 @@ body, html {
 }
 
 @media (min-width: 992px) {
-    .navbar {
-       background-color: transparent;
-    }
+
 }
 
 @media (min-width: 1200px) {
